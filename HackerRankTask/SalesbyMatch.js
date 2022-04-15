@@ -1,7 +1,7 @@
 // Array daxilində cütlərin sayını tapın 
 
 // let arr = [10, 20, 20, 10, 10, 30, 50, 10, 20];
-// let arr=[1, 1 ,3 ,1 ,2, 1, 3 ,3 ,3 ,3]
+// // let arr=[1, 1 ,3 ,1 ,2, 1, 3 ,3 ,3 ,3]
 // arr.sort()
 // console.log(arr.sort())
 // let even=[]
