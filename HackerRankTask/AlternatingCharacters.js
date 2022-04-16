@@ -1,3 +1,4 @@
+
 let s1="AAABBB"
 let say=0
 
