@@ -1,3 +1,4 @@
+// Fibonacci ardıcıllığımı tapın.
 let arr=[]
 let n=4
 
