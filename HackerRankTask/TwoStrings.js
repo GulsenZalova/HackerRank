@@ -1,3 +1,4 @@
+'use strict';
 // Stringlər daxilində eyni hərflərin olub-olmadığını müəyyənləşdir
 // Hər 3 üsul doğrudur, amma hackerrank tərərfindən ən optimal sayılan 3cü üsul oldu
 

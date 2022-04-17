@@ -1,3 +1,5 @@
+'use strict';
+// Markın əlindəki büdcə ilə ala biləcəyi maksimum oyuncaq sayını return edin
 // let k=50
 // let arr=[1,2,8,3,4,5,9,6,7]
 // let arr=[1,12,5,111,200,1000,10]
