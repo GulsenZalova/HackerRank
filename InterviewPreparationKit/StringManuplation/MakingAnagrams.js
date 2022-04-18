@@ -1,4 +1,4 @@
-
+'use strict';
 // let c ="fcrxzwscanmligyxyvym";
 // let d ="jxwtrhvujlmrpdoqbisbwhmgpmeoke";
  
