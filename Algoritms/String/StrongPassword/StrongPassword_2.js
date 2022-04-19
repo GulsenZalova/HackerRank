@@ -74,9 +74,9 @@ else{
     console.log(n=6-n)
 }
 
-// if(say>n){
-//     console.log(say)
-// }
-// else{
-//     console.log(n)
-// }
+if(say>n){
+    console.log(say)
+}
+else{
+    console.log(n)
+}
