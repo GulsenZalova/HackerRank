@@ -1,6 +1,5 @@
 'use strict';
 //  CamelCase qaydalar uy]un şəkildə verilmiş string daxilində neçə söz olduğunu tapın.
-
 let s="saveChangesInTheEditor";
 let arr=[]
 arr.push(s[0])

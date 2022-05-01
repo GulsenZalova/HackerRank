@@ -1,3 +1,4 @@
+'use strict';
 // Hər iki arrayin uygun elementlərini müqayisə edin,hansı böyükdürsə, həmin şəxsə 1 bal verin və nəticəni array formasında çap edin
 let a=[5, 6 , 7];
 let b=[3, 6 , 10]
